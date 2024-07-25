@@ -49,3 +49,19 @@
       
          Sets are unordered collections of unique elements. They are useful for membership tests and eliminating duplicate entries.
 
+5. ### [Lecture 5](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_5)
+   - **Topics:**
+    - **OOP Introduction**: 
+        - Overview of Object-Oriented Programming principles and concepts.
+
+    - **Classes and Objects**: 
+        - Understanding how to define classes and create objects in Python.
+
+6. ### [Lecture 6](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_6)
+   - **Topics:**
+    - **Inheritance and Polymorphism**: 
+        - Learn about how inheritance allows classes to derive from other classes and how polymorphism enables objects to be treated as instances of their parent class.
+
+    - **Encapsulation and Abstraction**: 
+        - Understand how encapsulation restricts direct access to some of an object's components and how abstraction allows focusing on essential qualities rather than specific characteristics.
+
