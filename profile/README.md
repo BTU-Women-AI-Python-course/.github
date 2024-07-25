@@ -92,9 +92,25 @@
            - Explore how to use Django's Object-Relational Mapping (ORM) to interact with the database.
        
 10. ### [Lecture 10](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_10)
-   - **Topics:**
-      - **Model Relationships (ForeignKey, ManyToManyField)**:
-        - Learn how to define relationships between models using fields like `ForeignKey` and `ManyToManyField`.
-      - **Model Methods and Properties**:
-        - Discover how to add custom methods and properties to your Django models to encapsulate business logic.
+    - **Topics:**
+         - **Model Relationships (ForeignKey, ManyToManyField)**:
+           - Learn how to define relationships between models using fields like `ForeignKey` and `ManyToManyField`.
+         - **Model Methods and Properties**:
+           - Discover how to add custom methods and properties to your Django models to encapsulate business logic.
           
+11. ### [Lecture 11](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_11)
+    - **Topics:**
+         - **Registering Models in Django Admin**:
+           - Learn how to register your models in the Django admin interface to manage your data.
+         - **Exploring Django Admin Functionality**:
+           - Discover the features and capabilities of the Django admin interface, including customizing how your models are displayed and managed.
+          
+12. ### [Lecture 12](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_12)
+    - **Topics:**
+         - **Django Views and URL Patterns**:
+              - **Creating Function-Based Views**:
+                - Learn how to create function-based views to handle HTTP requests and return responses in Django.
+              - **URL Patterns and Routing**:
+                - Understand how to define URL patterns and set up routing to connect URLs with views in your Django application.
+              - **Exchanging Data Between Views and Templates**:
+                - Explore how to pass data from views to templates and display dynamic content in your Django application.
