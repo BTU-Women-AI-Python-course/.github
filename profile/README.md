@@ -53,7 +53,6 @@
    - **Topics:**
        - **OOP Introduction**: 
            - Overview of Object-Oriented Programming principles and concepts.
-   
        - **Classes and Objects**: 
            - Understanding how to define classes and create objects in Python.
 
@@ -61,7 +60,18 @@
    - **Topics:**
        - **Inheritance and Polymorphism**: 
            - Learn about how inheritance allows classes to derive from other classes and how polymorphism enables objects to be treated as instances of their parent class.
-   
        - **Encapsulation and Abstraction**: 
            - Understand how encapsulation restricts direct access to some of an object's components and how abstraction allows focusing on essential qualities rather than specific characteristics.
+
+
+7. ### [Lecture 7](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_7)
+   - **Topics:**
+       - **Essence of Web Frameworks**:
+           - An introduction to what web frameworks are and why they are used in web development.
+      - **Overview of the Django Framework**:
+           - Discussing the features and components of the Django framework.
+      - **Installing Django**:
+           - Step-by-step guide on how to install Django on your system.
+      - **Creating a Simple Django Project and Application**:
+           - Instructions on setting up a basic Django project and creating a simple application within it.
 
