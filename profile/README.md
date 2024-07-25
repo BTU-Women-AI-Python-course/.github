@@ -59,19 +59,42 @@
 6. ### [Lecture 6](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_6)
    - **Topics:**
        - **Inheritance and Polymorphism**: 
-           - Learn about how inheritance allows classes to derive from other classes and how polymorphism enables objects to be treated as instances of their parent class.
+           - Learn how inheritance allows classes to derive from other classes and how polymorphism enables objects to be treated as instances of their parent class.
        - **Encapsulation and Abstraction**: 
            - Understand how encapsulation restricts direct access to some of an object's components and how abstraction allows focusing on essential qualities rather than specific characteristics.
 
 
 7. ### [Lecture 7](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_7)
    - **Topics:**
-       - **Essence of Web Frameworks**:
-           - An introduction to what web frameworks are and why they are used in web development.
+      - **Essence of Web Frameworks**:
+           - An introduction to web frameworks and why they are used in web development.
       - **Overview of the Django Framework**:
            - Discussing the features and components of the Django framework.
       - **Installing Django**:
            - Step-by-step guide on how to install Django on your system.
       - **Creating a Simple Django Project and Application**:
-           - Instructions on setting up a basic Django project and creating a simple application within it.
+           - Instructions on setting up a basic Django project and creating a simple application.
 
+8. ### [Lecture 8](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_8)
+   - **Topics:**
+      - **Understanding Django Project Structure**:
+        - Learn about the components and organization of a typical Django project.
+      - **Settings, URLs, and Views**:
+        - Explore how to configure settings, define URLs, and create views in a Django application.
+       
+9. ### [Lecture 9](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_9)
+   - **Topics:**
+        - **Creating Models**:
+           - Learn how to define models in Django to represent database tables.
+        - **Using Migrations to Create Tables in the Database**:
+           - Understand how to use Django migrations to create and manage database tables.
+        - **Querying the Database with Django ORM**:
+           - Explore how to use Django's Object-Relational Mapping (ORM) to interact with the database.
+       
+10. ### [Lecture 10](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_10)
+   - **Topics:**
+      - **Model Relationships (ForeignKey, ManyToManyField)**:
+        - Learn how to define relationships between models using fields like `ForeignKey` and `ManyToManyField`.
+      - **Model Methods and Properties**:
+        - Discover how to add custom methods and properties to your Django models to encapsulate business logic.
+          
