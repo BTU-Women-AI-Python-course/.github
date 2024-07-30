@@ -114,3 +114,47 @@
                 - Understand how to define URL patterns and set up routing to connect URLs with views in your Django application.
               - **Exchanging Data Between Views and Templates**:
                 - Explore how to pass data from views to templates and display dynamic content in your Django application.
+               
+13. ### [Lecture 13](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_13)
+    - **Topics:**
+         - **Django Templates: Syntax and Structure**:
+           - Learn the basics of Django template syntax and how to structure templates for your application.
+         - **Template Tags and Filters**:
+           - Discover how to use template tags and filters to add dynamic behavior and manipulate data in Django templates.
+
+14. ### [Lecture 14](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_14)
+    - **Topics:**
+         - **Creating Forms**:
+           - Learn how to create forms in Django to collect and process user input.
+         - **Validation**:
+           - Understand how to validate form data to ensure accuracy and integrity before processing it.
+          
+15. ### [Lecture 15](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_15)
+    - **Topics:**
+         - **User Management:**
+             - Manage user accounts and profiles.
+         - **User Authentication:**
+             - Handle user login, logout, and session management.
+         - **User Registration and Login:**
+             - Allow users to create accounts and access the application securely.
+         - **Customizing Authentication:**
+             - Modify the authentication process to meet specific needs.
+
+16. ### [Lecture 16](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_16)
+    - **Topics:**
+         - **Introduction to Django REST Framework:**
+             - Overview of the framework and its capabilities.
+         - **Building APIs:**
+             - Creating and managing APIs with Django REST Framework.
+
+17. ### [Lecture 17](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_17)
+    - **Topics:**
+         - **Serializers:**
+             - Transform complex data types into native Python data types.
+         - **Views in DRF:**
+             - Define the logic for handling API requests.
+         - **SimpleRouter and DefaultRouter:**
+             - Automatically generate URL routing for your API.
+         - **Permissions:**
+             - Control access to your API endpoints.
+             
