@@ -158,3 +158,38 @@
          - **Permissions:**
              - Control access to your API endpoints.
              
+18. ### [Lecture 18](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_18)
+    - **Topics:**
+         - **Pagination**:
+           - Efficiently handle large datasets by delivering data in manageable chunks, enhancing performance and user experience.
+         - **Django Filters**:
+           - Add filtering capabilities to your API endpoints, allowing clients to retrieve only the necessary data and making your API more flexible.
+         - **Custom Permissions**:
+           - Define and apply custom permissions to control access to specific parts of your API, ensuring security and privacy.
+
+19. ### [Lecture 19](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_19)
+    - **Topics:**
+         - **Setting up Django Settings and Defining Tasks**:
+           - Configure your Django settings for Celery integration and define tasks to be executed asynchronously.
+         - **Running Tasks with Django**:
+           - Learn how to run Celery tasks in a Django application, allowing for background processing of tasks.
+         - **Scheduling Tasks**:
+           -  Use Celery to schedule tasks at specified intervals, enabling periodic execution of tasks for maintenance, data updates, and more.
+
+20. ### [Lecture 20](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_20)
+    - **Topics:**
+         - **Overview of Tests**:
+           - Understand the importance of testing in Django applications and familiarize yourself with the Django testing framework.
+         - **Writing Tests**:
+           - Learn how to write unit tests and integration tests for your Django applications, ensuring that your code functions correctly and as expected.
+   
+21. ### [Lecture 21](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_21)
+    - **Topics:**
+         - **Overview of Deployment**:
+           - Gain insights into the deployment process, including key considerations for preparing your Django application for production.
+         - **Overview of Popular Platforms**:
+           - Explore some of the most popular platforms for deploying Django applications.
+      
+22. ### [Lecture 22](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_22)
+    - **Topics:**
+        - Final Project
