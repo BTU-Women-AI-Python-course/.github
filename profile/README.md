@@ -106,9 +106,11 @@
 10. ### [Lecture 10](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_10)
     - **Topics:**
          - **Model Relationships (ForeignKey, ManyToManyField)**:
-           - Learn how to define relationships between models using fields like `ForeignKey` and `ManyToManyField`.
+           - `ForeignKey` - https://docs.djangoproject.com/en/5.1/topics/db/examples/many_to_one/
+           - `ManyToManyField` - https://docs.djangoproject.com/en/5.1/topics/db/examples/many_to_many/
          - **Model Methods and Properties**:
-           - Discover how to add custom methods and properties to your Django models to encapsulate business logic.
+           - Model Methods - https://docs.djangoproject.com/en/5.1/topics/db/models/#model-methods
+           - Model Properties - https://docs.djangoproject.com/en/5.1/glossary/#term-property
           
 11. ### [Lecture 11](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_11)
     - **Topics:**
