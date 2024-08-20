@@ -96,11 +96,11 @@
        
 9. ### [Lecture 9](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_9)
    - **Topics:**
-        - **Creating Models**:
+        - **Creating Models** - https://docs.djangoproject.com/en/5.0/topics/db/models/:
            - Learn how to define models in Django to represent database tables.
-        - **Using Migrations to Create Tables in the Database**:
+        - **Using Migrations to Create Tables in the Database** - https://docs.djangoproject.com/en/5.0/topics/migrations/:
            - Understand how to use Django migrations to create and manage database tables.
-        - **Querying the Database with Django ORM**:
+        - **Querying the Database with Django ORM** - https://docs.djangoproject.com/en/5.0/topics/db/queries/:
            - Explore how to use Django's Object-Relational Mapping (ORM) to interact with the database.
        
 10. ### [Lecture 10](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_10)
