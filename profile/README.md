@@ -91,8 +91,8 @@
       - **Settings, URLs, and Views**:
         - Explore configuring settings, defining URLs, and creating views in a Django application.
         - Settings - https://docs.djangoproject.com/en/5.0/topics/settings/
-        - URLs - https://docs.djangoproject.com/en/5.0/topics/http/urls/
         - Views - https://docs.djangoproject.com/en/5.0/topics/http/views/
+        - URLs - https://docs.djangoproject.com/en/5.0/topics/http/urls/
        
 9. ### [Lecture 9](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_9)
    - **Topics:**
@@ -114,15 +114,15 @@
           
 11. ### [Lecture 11](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_11)
     - **Topics:**
-         - **Registering Models in Django Admin**:
+         - **Registering Models in Django Admin** - https://docs.djangoproject.com/en/5.1/ref/contrib/admin/:
            - Learn how to register your models in the Django admin interface to manage your data.
-         - **Exploring Django Admin Functionality**:
+         - **Exploring Django Admin Functionality** - https://docs.djangoproject.com/en/5.1/ref/contrib/admin/:
            - Discover the features and capabilities of the Django admin interface, including customizing how your models are displayed and managed.
           
 12. ### [Lecture 12](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_12)
     - **Topics:**
          - **Django Views and URL Patterns**:
-              - **Creating Function-Based Views**:
+              - **Creating Function-Based Views (For Models)**:
                 - Learn how to create function-based views to handle HTTP requests and return responses in Django.
               - **URL Patterns and Routing**:
                 - Understand how to define URL patterns and set up routing to connect URLs with views in your Django application.
