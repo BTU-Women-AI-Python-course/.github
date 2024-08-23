@@ -121,6 +121,13 @@
           
 12. ### [Lecture 12](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_12)
     - **Topics:**
+         - **Django Templates: Syntax and Structure**:
+           - Learn the basics of Django template syntax and how to structure templates for your application.
+         - **Template Tags and Filters**:
+           - Discover how to use template tags and filters to add dynamic behavior and manipulate data in Django templates.
+               
+13. ### [Lecture 13](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_13)
+    - **Topics:**
          - **Django Views and URL Patterns**:
               - **Creating Function-Based Views (For Models)**:
                 - Learn how to create function-based views to handle HTTP requests and return responses in Django.
@@ -128,13 +135,6 @@
                 - Understand how to define URL patterns and set up routing to connect URLs with views in your Django application.
               - **Exchanging Data Between Views and Templates**:
                 - Explore how to pass data from views to templates and display dynamic content in your Django application.
-               
-13. ### [Lecture 13](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_13)
-    - **Topics:**
-         - **Django Templates: Syntax and Structure**:
-           - Learn the basics of Django template syntax and how to structure templates for your application.
-         - **Template Tags and Filters**:
-           - Discover how to use template tags and filters to add dynamic behavior and manipulate data in Django templates.
 
 14. ### [Lecture 14](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_14)
     - **Topics:**
