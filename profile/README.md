@@ -2,13 +2,13 @@
 
 ## 📚 List of repositories
 
-1. ### [Lecture 1](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_1)
+### [Lecture 1](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_1)
    - **Topics:**
      - Variables - https://www.w3schools.com/python/python_variables.asp
      - Data Types - https://www.w3schools.com/python/python_datatypes.asp
      - Operators - https://www.w3schools.com/python/python_operators.asp
     
-2. ### [Lecture 2](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_2)
+### [Lecture 2](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_2)
    - **Topics:**
      - **Conditional Statements** - https://www.w3schools.com/python/python_conditions.asp:
         - `if`
@@ -21,7 +21,7 @@
         - `break` - https://www.w3schools.com/python/ref_keyword_break.asp
         - `continue` - https://www.w3schools.com/python/ref_keyword_continue.asp
     
-3. ### [Lecture 3](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_3)
+### [Lecture 3](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_3)
    - **Topics:**
      1. **Defining and Calling Functions** - https://www.w3schools.com/python/python_functions.asp
          - Learn how to define and call functions in Python.
@@ -35,7 +35,7 @@
          - Discover the power of lambda functions for creating anonymous functions in Python.
          - Learn how to use lambda functions in various contexts for concise and readable code.
        
-4. ### [Lecture 4](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_4)
+### [Lecture 4](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_4)
    - **Topics:**
      - **Lists** - https://www.w3schools.com/python/python_lists.asp:
 
@@ -53,14 +53,14 @@
 
          Dictionaries are collections of key-value pairs, allowing fast access to data.
 
-5. ### [Lecture 5](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_5)
+### [Lecture 5](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_5)
    - **Topics:**
        - **OOP Introduction**: 
            - Overview of Object-Oriented Programming principles and concepts.
        - **Classes and Objects** - https://www.w3schools.com/python/python_classes.asp 
            - Understanding how to define classes and create objects in Python.
 
-6. ### [Lecture 6](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_6)
+### [Lecture 6](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_6)
    - **Topics:**
        - **Inheritance and Polymorphism**: 
            - Learn about how inheritance allows classes to derive from other classes and how polymorphism enables objects to be treated as instances of their parent class.
@@ -73,7 +73,7 @@
            - Abstraction - https://www.geeksforgeeks.org/data-abstraction-in-python/
 
 
-7. ### [Lecture 7](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_7)
+### [Lecture 7](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_7)
    - **Topics:**
       - **Essence of Web Frameworks**:
         - An introduction to what web frameworks are and why they are used in web development.
@@ -84,7 +84,7 @@
       - **Creating a Simple Django Project** - https://docs.djangoproject.com/en/5.0/intro/tutorial01/:
         - Instructions on setting up a basic Django project and creating a simple application within it.
 
-8. ### [Lecture 8](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_8)
+### [Lecture 8](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_8)
    - **Topics:**
       - **Understanding Django Project Structure**:
         - Learn about the components and organization of a typical Django project.
@@ -94,7 +94,7 @@
         - Views - https://docs.djangoproject.com/en/5.0/topics/http/views/
         - URLs - https://docs.djangoproject.com/en/5.0/topics/http/urls/
        
-9. ### [Lecture 9](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_9)
+### [Lecture 9](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_9)
    - **Topics:**
         - **Creating Models** - https://docs.djangoproject.com/en/5.0/topics/db/models/:
            - Learn how to define models in Django to represent database tables.
@@ -103,7 +103,7 @@
         - **Querying the Database with Django ORM** - https://docs.djangoproject.com/en/5.0/topics/db/queries/:
            - Explore how to use Django's Object-Relational Mapping (ORM) to interact with the database.
        
-10. ### [Lecture 10](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_10)
+### [Lecture 10](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_10)
     - **Topics:**
          - **Model Relationships (ForeignKey, ManyToManyField)**:
            - `ForeignKey` - https://docs.djangoproject.com/en/5.1/topics/db/examples/many_to_one/
@@ -112,21 +112,21 @@
            - Model Methods - https://docs.djangoproject.com/en/5.1/topics/db/models/#model-methods
            - Model Properties - https://docs.djangoproject.com/en/5.1/glossary/#term-property
           
-11. ### [Lecture 11](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_11)
+### [Lecture 11](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_11)
     - **Topics:**
          - **Registering Models in Django Admin** - https://docs.djangoproject.com/en/5.1/ref/contrib/admin/:
            - Learn how to register your models in the Django admin interface to manage your data.
          - **Exploring Django Admin Functionality** - https://docs.djangoproject.com/en/5.1/ref/contrib/admin/:
            - Discover the features and capabilities of the Django admin interface, including customizing how your models are displayed and managed.
           
-12. ### [Lecture 12](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_12)
+### [Lecture 12](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_12)
     - **Topics:**
          - **Django Templates: Syntax and Structure** -https://docs.djangoproject.com/en/5.1/topics/templates/:
            - Learn the basics of Django template syntax and how to structure templates for your application.
          - **Template Tags and Filters** - https://docs.djangoproject.com/en/5.1/ref/templates/builtins/:
            - Discover how to use template tags and filters to add dynamic behavior and manipulate data in Django templates.
                
-13. ### [Lecture 13](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_13)
+### [Lecture 13](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_13)
     - **Topics:**
          - **Django Views and URL Patterns**:
               - **Creating Function-Based Views (For Models)**:
@@ -136,14 +136,14 @@
               - **Exchanging Data Between Views and Templates**:
                 - Explore how to pass data from views to templates and display dynamic content in your Django application.
 
-14. ### [Lecture 14](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_14)
+### [Lecture 14](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_14)
     - **Topics:**
          - **Creating Forms**:
            - Learn how to create forms in Django to collect and process user input.
          - **Validation**:
            - Understand how to validate form data to ensure accuracy and integrity before processing it.
           
-15. ### [Lecture 15](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_15)
+### [Lecture 15](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_15)
     - **Topics:**
          - **User Management:**
              - Manage user accounts and profiles.
@@ -154,14 +154,14 @@
          - **Customizing Authentication:**
              - Modify the authentication process to meet specific needs.
 
-16. ### [Lecture 16](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_16)
+### [Lecture 16](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_16)
     - **Topics:**
          - **Introduction to Django REST Framework:**
              - Overview of the framework and its capabilities.
          - **Building APIs:**
              - Creating and managing APIs with Django REST Framework.
 
-17. ### [Lecture 17](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_17)
+### [Lecture 17](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_17)
     - **Topics:**
          - **Serializers:**
              - Transform complex data types into native Python data types.
@@ -172,7 +172,7 @@
          - **Permissions:**
              - Control access to your API endpoints.
              
-18. ### [Lecture 18](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_18)
+### [Lecture 18](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_18)
     - **Topics:**
          - **Pagination**:
            - Efficiently handle large datasets by delivering data in manageable chunks, enhancing performance and user experience.
@@ -181,7 +181,7 @@
          - **Custom Permissions**:
            - Define and apply custom permissions to control access to specific parts of your API, ensuring security and privacy.
 
-19. ### [Lecture 19](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_19)
+### [Lecture 19](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_19)
     - **Topics:**
          - **Setting up Django Settings and Defining Tasks**:
            - Configure your Django settings for Celery integration and define tasks to be executed asynchronously.
@@ -190,20 +190,20 @@
          - **Scheduling Tasks**:
            -  Use Celery to schedule tasks at specified intervals, enabling periodic execution of tasks for maintenance, data updates, and more.
 
-20. ### [Lecture 20](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_20)
+### [Lecture 20](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_20)
     - **Topics:**
          - **Overview of Tests**:
            - Understand the importance of testing in Django applications and familiarize yourself with the Django testing framework.
          - **Writing Tests**:
            - Learn how to write unit tests and integration tests for your Django applications, ensuring that your code functions correctly and as expected.
    
-21. ### [Lecture 21](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_21)
+### [Lecture 21](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_21)
     - **Topics:**
          - **Overview of Deployment**:
            - Gain insights into the deployment process, including key considerations for preparing your Django application for production.
          - **Overview of Popular Platforms**:
            - Explore some of the most popular platforms for deploying Django applications.
       
-22. ### [Lecture 22](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_22)
+### [Lecture 22](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_22)
     - **Topics:**
         - Final Project
