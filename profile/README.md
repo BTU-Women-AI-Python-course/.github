@@ -23,15 +23,15 @@
     
 ### [Lecture 3](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_3)
    - **Topics:**
-     1. **Defining and Calling Functions** - https://www.w3schools.com/python/python_functions.asp
+     - **Defining and Calling Functions** - https://www.w3schools.com/python/python_functions.asp
          - Learn how to define and call functions in Python.
          - Understand the syntax and use cases for functions.
 
-     2. **Parameters and Return Values** - https://www.w3schools.com/python/python_functions.asp
+     - **Parameters and Return Values** - https://www.w3schools.com/python/python_functions.asp
          - Explore how to pass parameters to functions and how to return values.
          - Understand the importance of parameters in making functions flexible and reusable.
       
-     3. **Lambda Functions** - https://www.w3schools.com/python/python_lambda.asp
+     - **Lambda Functions** - https://www.w3schools.com/python/python_lambda.asp
          - Discover the power of lambda functions for creating anonymous functions in Python.
          - Learn how to use lambda functions in various contexts for concise and readable code.
        
@@ -104,106 +104,106 @@
            - Explore how to use Django's Object-Relational Mapping (ORM) to interact with the database.
        
 ### [Lecture 10](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_10)
-    - **Topics:**
-         - **Model Relationships (ForeignKey, ManyToManyField)**:
-           - `ForeignKey` - https://docs.djangoproject.com/en/5.1/topics/db/examples/many_to_one/
-           - `ManyToManyField` - https://docs.djangoproject.com/en/5.1/topics/db/examples/many_to_many/
-         - **Model Methods and Properties**:
-           - Model Methods - https://docs.djangoproject.com/en/5.1/topics/db/models/#model-methods
-           - Model Properties - https://docs.djangoproject.com/en/5.1/glossary/#term-property
+   - **Topics:**
+      - **Model Relationships (ForeignKey, ManyToManyField)**:
+        - ForeignKey - https://docs.djangoproject.com/en/5.1/topics/db/examples/many_to_one/
+        - ManyToManyField - https://docs.djangoproject.com/en/5.1/topics/db/examples/many_to_many/
+      - **Model Methods and Properties**:
+        - Model Methods - https://docs.djangoproject.com/en/5.1/topics/db/models/#model-methods
+        - Model Properties - https://docs.djangoproject.com/en/5.1/glossary/#term-property
           
 ### [Lecture 11](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_11)
-    - **Topics:**
-         - **Registering Models in Django Admin** - https://docs.djangoproject.com/en/5.1/ref/contrib/admin/:
-           - Learn how to register your models in the Django admin interface to manage your data.
-         - **Exploring Django Admin Functionality** - https://docs.djangoproject.com/en/5.1/ref/contrib/admin/:
-           - Discover the features and capabilities of the Django admin interface, including customizing how your models are displayed and managed.
+   - **Topics:**
+      - **Registering Models in Django Admin** - https://docs.djangoproject.com/en/5.1/ref/contrib/admin/:
+        - Learn how to register your models in the Django admin interface to manage your data.
+      - **Exploring Django Admin Functionality** - https://docs.djangoproject.com/en/5.1/ref/contrib/admin/:
+        - Discover the features and capabilities of the Django admin interface, including customizing how your models are displayed and managed.
           
 ### [Lecture 12](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_12)
-    - **Topics:**
-         - **Django Templates: Syntax and Structure** -https://docs.djangoproject.com/en/5.1/topics/templates/:
-           - Learn the basics of Django template syntax and how to structure templates for your application.
-         - **Template Tags and Filters** - https://docs.djangoproject.com/en/5.1/ref/templates/builtins/:
-           - Discover how to use template tags and filters to add dynamic behavior and manipulate data in Django templates.
+   - **Topics:**
+      - **Django Templates: Syntax and Structure** -https://docs.djangoproject.com/en/5.1/topics/templates/:
+        - Learn the basics of Django template syntax and how to structure templates for your application.
+      - **Template Tags and Filters** - https://docs.djangoproject.com/en/5.1/ref/templates/builtins/:
+        - Discover how to use template tags and filters to add dynamic behavior and manipulate data in Django templates.
                
 ### [Lecture 13](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_13)
-    - **Topics:**
-         - **Django Views and URL Patterns**:
-              - **Creating Function-Based Views (For Models)**:
-                - Learn how to create function-based views to handle HTTP requests and return responses in Django.
-              - **URL Patterns and Routing**:
-                - Understand how to define URL patterns and set up routing to connect URLs with views in your Django application.
-              - **Exchanging Data Between Views and Templates**:
-                - Explore how to pass data from views to templates and display dynamic content in your Django application.
+   - **Topics:**
+      - **Django Views and URL Patterns**:
+        - **Creating Function-Based Views (For Models)**:
+          - Learn how to create function-based views to handle HTTP requests and return responses in Django.
+        - **URL Patterns and Routing**:
+          - Understand how to define URL patterns and set up routing to connect URLs with views in your Django application.
+        - **Exchanging Data Between Views and Templates**:
+          - Explore how to pass data from views to templates and display dynamic content in your Django application.
 
 ### [Lecture 14](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_14)
-    - **Topics:**
-         - **Creating Forms**:
-           - Learn how to create forms in Django to collect and process user input.
-         - **Validation**:
-           - Understand how to validate form data to ensure accuracy and integrity before processing it.
+   - **Topics:**
+      - **Creating Forms**:
+        - Learn how to create forms in Django to collect and process user input.
+      - **Validation**:
+        - Understand how to validate form data to ensure accuracy and integrity before processing it.
           
 ### [Lecture 15](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_15)
-    - **Topics:**
-         - **User Management:**
-             - Manage user accounts and profiles.
-         - **User Authentication:**
-             - Handle user login, logout, and session management.
-         - **User Registration and Login:**
-             - Allow users to create accounts and access the application securely.
-         - **Customizing Authentication:**
-             - Modify the authentication process to meet specific needs.
+   - **Topics:**
+      - **User Management:**
+          - Manage user accounts and profiles.
+      - **User Authentication:**
+          - Handle user login, logout, and session management.
+      - **User Registration and Login:**
+          - Allow users to create accounts and access the application securely.
+      - **Customizing Authentication:**
+          - Modify the authentication process to meet specific needs.
 
 ### [Lecture 16](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_16)
-    - **Topics:**
-         - **Introduction to Django REST Framework:**
-             - Overview of the framework and its capabilities.
-         - **Building APIs:**
-             - Creating and managing APIs with Django REST Framework.
+   - **Topics:**
+      - **Introduction to Django REST Framework:**
+          - Overview of the framework and its capabilities.
+      - **Building APIs:**
+          - Creating and managing APIs with Django REST Framework.
 
 ### [Lecture 17](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_17)
-    - **Topics:**
-         - **Serializers:**
-             - Transform complex data types into native Python data types.
-         - **Views in DRF:**
-             - Define the logic for handling API requests.
-         - **SimpleRouter and DefaultRouter:**
-             - Automatically generate URL routing for your API.
-         - **Permissions:**
-             - Control access to your API endpoints.
+   - **Topics:**
+      - **Serializers:**
+          - Transform complex data types into native Python data types.
+      - **Views in DRF:**
+          - Define the logic for handling API requests.
+      - **SimpleRouter and DefaultRouter:**
+          - Automatically generate URL routing for your API.
+      - **Permissions:**
+          - Control access to your API endpoints.
              
 ### [Lecture 18](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_18)
-    - **Topics:**
-         - **Pagination**:
-           - Efficiently handle large datasets by delivering data in manageable chunks, enhancing performance and user experience.
-         - **Django Filters**:
-           - Add filtering capabilities to your API endpoints, allowing clients to retrieve only the necessary data and making your API more flexible.
-         - **Custom Permissions**:
-           - Define and apply custom permissions to control access to specific parts of your API, ensuring security and privacy.
+   - **Topics:**
+      - **Pagination**:
+        - Efficiently handle large datasets by delivering data in manageable chunks, enhancing performance and user experience.
+      - **Django Filters**:
+        - Add filtering capabilities to your API endpoints, allowing clients to retrieve only the necessary data and making your API more flexible.
+      - **Custom Permissions**:
+        - Define and apply custom permissions to control access to specific parts of your API, ensuring security and privacy.
 
 ### [Lecture 19](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_19)
-    - **Topics:**
-         - **Setting up Django Settings and Defining Tasks**:
-           - Configure your Django settings for Celery integration and define tasks to be executed asynchronously.
-         - **Running Tasks with Django**:
-           - Learn how to run Celery tasks in a Django application, allowing for background processing of tasks.
-         - **Scheduling Tasks**:
-           -  Use Celery to schedule tasks at specified intervals, enabling periodic execution of tasks for maintenance, data updates, and more.
+   - **Topics:**
+      - **Setting up Django Settings and Defining Tasks**:
+        - Configure your Django settings for Celery integration and define tasks to be executed asynchronously.
+      - **Running Tasks with Django**:
+        - Learn how to run Celery tasks in a Django application, allowing for background processing of tasks.
+      - **Scheduling Tasks**:
+        -  Use Celery to schedule tasks at specified intervals, enabling periodic execution of tasks for maintenance, data updates, and more.
 
 ### [Lecture 20](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_20)
-    - **Topics:**
-         - **Overview of Tests**:
-           - Understand the importance of testing in Django applications and familiarize yourself with the Django testing framework.
-         - **Writing Tests**:
-           - Learn how to write unit tests and integration tests for your Django applications, ensuring that your code functions correctly and as expected.
+   - **Topics:**
+      - **Overview of Tests**:
+        - Understand the importance of testing in Django applications and familiarize yourself with the Django testing framework.
+      - **Writing Tests**:
+        - Learn how to write unit tests and integration tests for your Django applications, ensuring that your code functions correctly and as expected.
    
 ### [Lecture 21](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_21)
-    - **Topics:**
-         - **Overview of Deployment**:
-           - Gain insights into the deployment process, including key considerations for preparing your Django application for production.
-         - **Overview of Popular Platforms**:
-           - Explore some of the most popular platforms for deploying Django applications.
+   - **Topics:**
+      - **Overview of Deployment**:
+        - Gain insights into the deployment process, including key considerations for preparing your Django application for production.
+      - **Overview of Popular Platforms**:
+        - Explore some of the most popular platforms for deploying Django applications.
       
 ### [Lecture 22](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_22)
-    - **Topics:**
-        - Final Project
+   - **Topics:**
+     - Final Project
