@@ -81,7 +81,7 @@
         - Discussing the features and components of the Django framework.
       - **Installing Django** - https://docs.djangoproject.com/en/5.0/topics/install/:
         - Step-by-step guide on how to install Django on your system.
-      - **Creating a Simple Django Project and Application** - https://docs.djangoproject.com/en/5.0/intro/tutorial01/:
+      - **Creating a Simple Django Project** - https://docs.djangoproject.com/en/5.0/intro/tutorial01/:
         - Instructions on setting up a basic Django project and creating a simple application within it.
 
 8. ### [Lecture 8](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_8)
