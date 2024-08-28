@@ -88,6 +88,7 @@
    - **Topics:**
       - **Understanding Django Project Structure**:
         - Learn about the components and organization of a typical Django project.
+      - **Create app** - https://docs.djangoproject.com/en/5.1/intro/tutorial01/#creating-the-polls-app
       - **Settings, URLs, and Views**:
         - Explore configuring settings, defining URLs, and creating views in a Django application.
         - Settings - https://docs.djangoproject.com/en/5.0/topics/settings/
