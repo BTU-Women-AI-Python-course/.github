@@ -139,9 +139,9 @@
 
 ### [Lecture 14](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_14)
    - **Topics:**
-      - **Creating Forms**:
+      - **Creating Forms** - https://docs.djangoproject.com/en/5.1/topics/forms/#building-a-form-in-django:
         - Learn how to create forms in Django to collect and process user input.
-      - **Validation**:
+      - **Validation** - https://docs.djangoproject.com/en/5.1/ref/forms/validation/:
         - Understand how to validate form data to ensure accuracy and integrity before processing it.
           
 ### [Lecture 15](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_15)
