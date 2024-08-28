@@ -83,6 +83,7 @@
         - Step-by-step guide on how to install Django on your system.
       - **Creating a Simple Django Project** - https://docs.djangoproject.com/en/5.0/intro/tutorial01/:
         - Instructions on setting up a basic Django project and creating a simple application within it.
+      - **Media and static folders** - https://testdriven.io/blog/django-static-files/
 
 ### [Lecture 8](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_8)
    - **Topics:**
