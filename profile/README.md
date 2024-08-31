@@ -26,11 +26,9 @@
      - **Defining and Calling Functions** - https://www.w3schools.com/python/python_functions.asp
          - Learn how to define and call functions in Python.
          - Understand the syntax and use cases for functions.
-
      - **Parameters and Return Values** - https://www.w3schools.com/python/python_functions.asp
          - Explore how to pass parameters to functions and how to return values.
-         - Understand the importance of parameters in making functions flexible and reusable.
-      
+         - Understand the importance of parameters in making functions flexible and reusable.     
      - **Lambda Functions** - https://www.w3schools.com/python/python_lambda.asp
          - Discover the power of lambda functions for creating anonymous functions in Python.
          - Learn how to use lambda functions in various contexts for concise and readable code.
@@ -38,19 +36,12 @@
 ### [Lecture 4](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_4)
    - **Topics:**
      - **Lists** - https://www.w3schools.com/python/python_lists.asp:
-
-         Lists are ordered collections that are mutable and can contain mixed data types. List comprehensions provide a concise way to create lists.
-      
-     - **Tuples** - https://www.w3schools.com/python/python_tuples.asp:
-      
-         Tuples are immutable ordered collections, useful for fixed data. 
-      
-     - **Sets** - https://www.w3schools.com/python/python_sets.asp:  
-      
-         Sets are unordered collections of unique elements. They are useful for membership tests and eliminating duplicate entries.
-       
+         Lists are ordered collections that are mutable and can contain mixed data types. List comprehensions provide a concise way to create lists.     
+     - **Tuples** - https://www.w3schools.com/python/python_tuples.asp:      
+         Tuples are immutable ordered collections, useful for fixed data.       
+     - **Sets** - https://www.w3schools.com/python/python_sets.asp:       
+         Sets are unordered collections of unique elements. They are useful for membership tests and eliminating duplicate entries.       
      - **Dictionaries** - https://www.w3schools.com/python/python_dictionaries.asp:
-
          Dictionaries are collections of key-value pairs, allowing fast access to data.
 
 ### [Lecture 5](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_5)
@@ -65,8 +56,7 @@
        - **Inheritance and Polymorphism**: 
            - Learn about how inheritance allows classes to derive from other classes and how polymorphism enables objects to be treated as instances of their parent class.
            - Inheritance - https://www.w3schools.com/python/python_inheritance.asp
-           - Polymorphism - https://www.w3schools.com/python/python_polymorphism.asp
-         
+           - Polymorphism - https://www.w3schools.com/python/python_polymorphism.asp         
        - **Encapsulation and Abstraction**: 
            - Understand how encapsulation restricts direct access to some of an object's components and how abstraction allows focusing on essential qualities rather than specific characteristics.
            - Encapsulation - https://www.geeksforgeeks.org/encapsulation-in-python/
@@ -100,6 +90,7 @@
    - **Topics:**
         - **Creating Models** - https://docs.djangoproject.com/en/5.0/topics/db/models/:
            - Learn how to define models in Django to represent database tables.
+        - **Model Fields** - https://www.freecodecamp.org/news/common-django-model-fields-and-their-use-cases/
         - **Using Migrations to Create Tables in the Database** - https://docs.djangoproject.com/en/5.0/topics/migrations/:
            - Understand how to use Django migrations to create and manage database tables.
         - **Querying the Database with Django ORM** - https://docs.djangoproject.com/en/5.0/topics/db/queries/:
@@ -157,34 +148,33 @@
 
 ### [Lecture 16](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_16)
    - **Topics:**
-      - **Introduction to Django REST Framework:**
+      - **Introduction to Django REST Framework** - https://www.django-rest-framework.org/:
           - Overview of the framework and its capabilities.
       - **Building APIs:**
           - Creating and managing APIs with Django REST Framework.
 
 ### [Lecture 17](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_17)
    - **Topics:**
-      - **Serializers:**
+      - **Serializers** - https://www.django-rest-framework.org/api-guide/serializers/:
           - Transform complex data types into native Python data types.
-      - **Views in DRF:**
-          - Define the logic for handling API requests.
-      - **SimpleRouter and DefaultRouter:**
+      - **ViewSets** - https://www.django-rest-framework.org/api-guide/viewsets/:
+      - **SimpleRouter and DefaultRouter** - https://www.django-rest-framework.org/api-guide/routers/:
           - Automatically generate URL routing for your API.
-      - **Permissions:**
+      - **Permissions** - https://www.django-rest-framework.org/api-guide/permissions/:
           - Control access to your API endpoints.
              
 ### [Lecture 18](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_18)
    - **Topics:**
-      - **Pagination**:
+      - **Pagination** - https://www.django-rest-framework.org/api-guide/pagination/:
         - Efficiently handle large datasets by delivering data in manageable chunks, enhancing performance and user experience.
-      - **Django Filters**:
+      - **Django Filters** - https://www.django-rest-framework.org/api-guide/filtering/:
         - Add filtering capabilities to your API endpoints, allowing clients to retrieve only the necessary data and making your API more flexible.
-      - **Custom Permissions**:
+      - **Custom Permissions** - https://www.django-rest-framework.org/api-guide/permissions/#custom-permissions:
         - Define and apply custom permissions to control access to specific parts of your API, ensuring security and privacy.
 
 ### [Lecture 19](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_19)
    - **Topics:**
-      - **Setting up Django Settings and Defining Tasks**:
+      - **Celery - Setting up Django Settings and Defining Tasks**:
         - Configure your Django settings for Celery integration and define tasks to be executed asynchronously.
       - **Running Tasks with Django**:
         - Learn how to run Celery tasks in a Django application, allowing for background processing of tasks.
@@ -193,9 +183,9 @@
 
 ### [Lecture 20](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_20)
    - **Topics:**
-      - **Overview of Tests**:
+      - **Overview of Tests** - https://docs.djangoproject.com/en/5.1/topics/testing/:
         - Understand the importance of testing in Django applications and familiarize yourself with the Django testing framework.
-      - **Writing Tests**:
+      - **Writing Tests** - https://docs.djangoproject.com/en/5.1/topics/testing/overview/:
         - Learn how to write unit tests and integration tests for your Django applications, ensuring that your code functions correctly and as expected.
    
 ### [Lecture 21](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_21)
