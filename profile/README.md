@@ -99,9 +99,10 @@
        
 ### [Lecture 10](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_10)
    - **Topics:**
-      - **Model Relationships (ForeignKey, ManyToManyField)**:
+      - **Model Relationships**:
         - ForeignKey - https://docs.djangoproject.com/en/5.1/topics/db/examples/many_to_one/
         - ManyToManyField - https://docs.djangoproject.com/en/5.1/topics/db/examples/many_to_many/
+        - OneToOneField - https://docs.djangoproject.com/en/5.1/topics/db/examples/one_to_one/
       - **Model Methods and Properties**:
         - Model Methods - https://docs.djangoproject.com/en/5.1/topics/db/models/#model-methods
         - Model Properties - https://docs.djangoproject.com/en/5.1/glossary/#term-property
