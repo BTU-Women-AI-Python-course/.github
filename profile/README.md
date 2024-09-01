@@ -112,6 +112,8 @@
         - Learn how to register your models in the Django admin interface to manage your data.
       - **Exploring Django Admin Functionality** - https://docs.djangoproject.com/en/5.1/ref/contrib/admin/:
         - Discover the features and capabilities of the Django admin interface, including customizing how your models are displayed and managed.
+      - **Django admin sortable** - https://django-admin-sortable2.readthedocs.io/en/latest/
+      - **Django import/export** - https://django-import-export.readthedocs.io/en/latest/index.html
           
 ### [Lecture 12](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_12)
    - **Topics:**
