@@ -121,10 +121,11 @@
           
 ### [Lecture 12](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_12)
    - **Topics:**
-      - **Django Templates: Syntax and Structure** -https://docs.djangoproject.com/en/5.1/topics/templates/:
-        - Learn the basics of Django template syntax and how to structure templates for your application.
-      - **Template Tags and Filters** - https://docs.djangoproject.com/en/5.1/ref/templates/builtins/:
-        - Discover how to use template tags and filters to add dynamic behavior and manipulate data in Django templates.
+      - **Django Templates** - https://docs.djangoproject.com/en/5.1/ref/templates/language/#templates
+      - **Template Variables** - https://docs.djangoproject.com/en/5.1/ref/templates/language/#tags
+      - **Template Filters** - https://docs.djangoproject.com/en/5.1/ref/templates/language/#filters
+      - **Template Tags** - https://docs.djangoproject.com/en/5.1/ref/templates/language/#tags
+      - **Template Inheritance** - https://docs.djangoproject.com/en/5.1/ref/templates/language/#template-inheritance
                
 ### [Lecture 13](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_13)
    - **Topics:**
