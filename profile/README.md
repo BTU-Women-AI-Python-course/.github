@@ -122,6 +122,7 @@
 ### [Lecture 12](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_12)
    - **Topics:**
       - **Django Templates** - https://docs.djangoproject.com/en/5.1/ref/templates/language/#templates
+      - **Template Configuration** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_12/blob/main/django_template_configuration.md
       - **Template Variables** - https://docs.djangoproject.com/en/5.1/ref/templates/language/#tags
       - **Template Filters** - https://docs.djangoproject.com/en/5.1/ref/templates/language/#filters
       - **Template Tags** - https://docs.djangoproject.com/en/5.1/ref/templates/language/#tags
