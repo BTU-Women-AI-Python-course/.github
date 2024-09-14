@@ -189,6 +189,7 @@
 
 ### [Lecture 19](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_19)
    - **Topics:**
+      - **Commands** - https://docs.djangoproject.com/en/5.1/howto/custom-management-commands/
       - **Celery - Setting up Django Settings and Defining Tasks** - https://docs.celeryq.dev/en/stable/django/first-steps-with-django.html:
         - Configure your Django settings for Celery integration and define tasks to be executed asynchronously.
       - **Running Tasks with Django**:
