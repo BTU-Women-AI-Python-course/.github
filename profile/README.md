@@ -160,15 +160,16 @@
 ### [Lecture 16](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_16)
    - **Topics:**
       - **Introduction to Django REST Framework** - https://www.django-rest-framework.org/:
-          - Overview of the framework and its capabilities.
+        - Overview of the framework and its capabilities.
       - **Setting Up Django REST Framework** - https://www.django-rest-framework.org/#installation
+      - **serializers (basic)** - https://www.django-rest-framework.org/api-guide/serializers/#modelserializer
       - **Building APIs:**
-          - Class-based Views - https://www.django-rest-framework.org/api-guide/views/#class-based-views
-          - Function-Based Views - https://www.django-rest-framework.org/api-guide/views/#function-based-views
+        - Class-based Views - https://www.django-rest-framework.org/api-guide/views/#class-based-views
+        - Function-Based Views - https://www.django-rest-framework.org/api-guide/views/#function-based-views
 
 ### [Lecture 17](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_17)
    - **Topics:**
-      - **Serializers** - https://www.django-rest-framework.org/api-guide/serializers/:
+      - **Serializers (advanced)** - https://www.django-rest-framework.org/api-guide/serializers/:
           - Transform complex data types into native Python data types.
       - **ViewSets** - https://www.django-rest-framework.org/api-guide/viewsets/:
       - **SimpleRouter and DefaultRouter** - https://www.django-rest-framework.org/api-guide/routers/:
