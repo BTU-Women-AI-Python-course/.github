@@ -159,7 +159,7 @@
 
 
 ### [Lecture 16](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_16)
-   - **Topics:**
+   - **(Django Rest Framework) Topics:**
       - **Introduction to Django REST Framework** - https://www.django-rest-framework.org/:
         - Overview of the framework and its capabilities.
       - **Setting Up Django REST Framework** - https://www.django-rest-framework.org/#installation
@@ -169,7 +169,7 @@
         - Function-Based Views - https://www.django-rest-framework.org/api-guide/views/#function-based-views
 
 ### [Lecture 17](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_17)
-   - **Topics:**
+   - **(Django Rest Framework) Topics:**
       - **Serializers (advanced)** - https://www.django-rest-framework.org/api-guide/serializers/:
           - Transform complex data types into native Python data types.
       - **ViewSets** - https://www.django-rest-framework.org/api-guide/viewsets/:
@@ -179,13 +179,14 @@
           - Control access to your API endpoints.
              
 ### [Lecture 18](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_18)
-   - **Topics:**
+   - **(Django Rest Framework) Topics:**
       - **Pagination** - https://www.django-rest-framework.org/api-guide/pagination/:
         - Efficiently handle large datasets by delivering data in manageable chunks, enhancing performance and user experience.
       - **Django Filters** - https://www.django-rest-framework.org/api-guide/filtering/:
         - Add filtering capabilities to your API endpoints, allowing clients to retrieve only the necessary data and making your API more flexible.
       - **Custom Permissions** - https://www.django-rest-framework.org/api-guide/permissions/#custom-permissions:
         - Define and apply custom permissions to control access to specific parts of your API, ensuring security and privacy.
+      - **Authentication** - https://www.django-rest-framework.org/api-guide/authentication/
 
 ### [Lecture 19](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_19)
    - **Topics:**
