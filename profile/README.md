@@ -176,7 +176,7 @@
       - **ViewSets** - https://www.django-rest-framework.org/api-guide/viewsets/:
       - **SimpleRouter and DefaultRouter** - https://www.django-rest-framework.org/api-guide/routers/:
         - Automatically generate URL routing for your API.
-      - **Permissions** - https://www.django-rest-framework.org/api-guide/permissions/:
+      - **Default Permissions** - https://www.django-rest-framework.org/api-guide/permissions/:
         - Control access to your API endpoints.
              
 ### [Lecture 18](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_18)
