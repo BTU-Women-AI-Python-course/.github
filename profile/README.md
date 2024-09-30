@@ -187,6 +187,7 @@
         - Add filtering capabilities to your API endpoints, allowing clients to retrieve only the necessary data and making your API more flexible.
       - **Custom Permissions** - https://www.django-rest-framework.org/api-guide/permissions/#custom-permissions:
         - Define and apply custom permissions to control access to specific parts of your API, ensuring security and privacy.
+      - **ViewSet Extra Actions** - https://www.django-rest-framework.org/api-guide/viewsets/#marking-extra-actions-for-routing
       - **Authentication** - https://www.django-rest-framework.org/api-guide/authentication/
 
 ### [Lecture 19](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_19)
