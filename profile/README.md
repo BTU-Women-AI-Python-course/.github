@@ -199,6 +199,7 @@
         - Learn how to run Celery tasks in a Django application, allowing for background processing of tasks.
       - **Scheduling Tasks** - https://django-celery-beat.readthedocs.io/en/latest/:
         -  Use Celery to schedule tasks at specified intervals, enabling periodic execution of tasks for maintenance, data updates, and more.
+      - **Django Celery Results** - https://django-celery-results.readthedocs.io/en/latest/
 
 ### [Lecture 20](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_20)
    - **Topics:**
