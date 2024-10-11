@@ -210,10 +210,11 @@
    
 ### [Lecture 21](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_21)
    - **Topics:**
-      - **Overview of Deployment**:
-        - Gain insights into the deployment process, including key considerations for preparing your Django application for production.
-      - **Overview of Popular Platforms**:
-        - Explore some of the most popular platforms for deploying Django applications.
+      - **Overview of Deployment** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_21/blob/main/overview_of_deployment.md
+      - **Types of Hosting Providers** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_21/blob/main/types_of_hosting_providers.md
+      - **Amazon Web Services (AWS)** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_21/blob/main/amazon_web_services.md
+      - **Docker for Django Projects** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_21/blob/main/docker_for_django_projects.md
+      - **Continuous Integration/Continuous Deployment (CI/CD)** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_21/blob/main/continuous_integration_continuous_deployment.md
       
 ### [Lecture 22](https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_22)
    - **Topics:**
